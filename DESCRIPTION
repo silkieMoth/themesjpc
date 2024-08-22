@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/silkieMoth/themesjpc
 BugReports: https://github.com/silkieMoth/themesjpc/issues
+RoxygenNote: 7.3.2
